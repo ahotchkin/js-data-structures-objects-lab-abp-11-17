@@ -8,5 +8,5 @@ function updateDriverWithKeyAndValue(driver, key, value){
 }
 
 function destructivelyUpdateDriverWithKeyAndValue(driver, key, value){
-  return Object. assign (driver, 'address', '12 Broadway')
+  return Object. assign (driver, {address: '12 Broadway'})
 }
