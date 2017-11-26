@@ -4,7 +4,6 @@ const driver = {
 };
 
 let newdriver = {
-  deleteFromDriverByKey(driver, 'name')
 };
 
 function updateDriverWithKeyAndValue(driver, key, value){
