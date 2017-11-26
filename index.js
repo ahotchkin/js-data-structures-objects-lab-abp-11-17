@@ -17,3 +17,7 @@ function deleteFromDriverByKey(driver, key){
 
 const newdriver = {
 }
+
+function destructivelyDeleteFromdriverByKey(driver, key){
+  
+}
